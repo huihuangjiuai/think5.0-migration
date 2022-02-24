@@ -1,2 +1,8 @@
-# think5.0-migration
-thinkphp官方的migration1.1.1版本不维护了，但是公司项目框架式5.0.24，只能使用1系列，自己维护一下。
+此插件的项目环境为php8.0 thinkphp5.0.24
+原项目为  thinkphp-migration 1.1.1
+# thinkphp5 数据库迁移工具
+
+## 安装
+~~~
+composer require huihuangjiuai/think5.0-migration
+~~~
